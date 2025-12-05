@@ -1,0 +1,28 @@
+# Excel temporary files
+~$*.xls*
+~$*.xlsx
+~$*.xlsm
+
+# Excel backup files
+*.xlk
+
+# PowerPivot backup files
+*.tmp
+
+# Mac OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Office temp files
+~$*
