@@ -75,21 +75,6 @@ Welcome to my Excel Portfolio! This repository showcases my proficiency in Micro
 
 ---
 
-### 5. Defects Analysis
-**File:** `defects.xlsx`
-
-**Description:** Quality control analysis examining defect patterns in manufacturing processes to identify root causes and improvement opportunities.
-
-**Key Features:**
-- Statistical process control
-- Pareto analysis of defect types
-- Trend analysis over time
-- Control charts for quality monitoring
-- Root cause analysis visualizations
-
-**Skills Demonstrated:** Quality analysis, statistical analysis, data visualization, process improvement
-
----
 
 ## 💼 Technical Skills Showcased
 
